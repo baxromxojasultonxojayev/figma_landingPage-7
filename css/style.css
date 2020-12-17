@@ -142,6 +142,7 @@ header .container{
     background: #F04037;
     border-radius: 5px;
     border: none;
+    cursor: pointer;
 }
 
 main{

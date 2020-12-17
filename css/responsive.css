@@ -636,8 +636,8 @@
         font-size: 11px;
     }
     .play .container {
-        width: 500px;
-        height: 300px;
+        width: 450px;
+        height: 250px;
     }
     .app-text {
         padding: 20px 40px;
@@ -720,8 +720,8 @@
         display: none;
     }
     .play .container {
-        width: 400px;
-        height: 200px;
+        width: 360px;
+        height: 150px;
         margin-top: 20px;
     }
 
