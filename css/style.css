@@ -93,7 +93,7 @@ header .container{
 .header-image{
     width: 250px;
     height: 450px;
-    background-image: url('/figma_landingPage-7/img/iPhone.svg');
+    background-image: url('./figma_landingPage-7/img/iPhone.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 550px 450px;
@@ -131,7 +131,7 @@ header .container{
 .form input{
     border: none;
     padding: 10px 40px;
-    background-image: url(/figma_landingPage-7/img/email.svg);
+    background-image: url('./figma_landingPage-7/img/email.svg');
     background-repeat: no-repeat;
     background-size: 20px 40px;
 }
@@ -230,7 +230,7 @@ main .container .right-star{
 .fun-image{
     width: 450px;
     height: 650px;
-    background-image: url('/figma_landingPage-7/img/iPhone-1.svg');
+    background-image: url('./figma_landingPage-7/img/iPhone-1.svg');
     background-repeat: no-repeat;
     background-size: 450px 560px;
     background-position: center;
@@ -313,7 +313,7 @@ main .container .right-star{
 .experience-image{
     width: 900px;
     height: 650px;
-    background-image: url('/figma_landingPage-7/img/iPhone-2.svg');
+    background-image: url('./figma_landingPage-7/img/iPhone-2.svg');
     background-repeat: no-repeat;
     background-size: 300px 560px;
     background-position: center;
@@ -344,7 +344,7 @@ main .container .right-star{
 .play .container{
     width: 1240px;
     height: 800px;
-    background-image: url('/figma_landingPage-7/img/BG@2x.svg');
+    background-image: url('./figma_landingPage-7/img/BG@2x.svg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

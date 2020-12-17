@@ -752,4 +752,7 @@
     .footer-item {
         font-size: 10px;
     }
+    .container div p {
+        margin-bottom: 3px;
+    }
 }
