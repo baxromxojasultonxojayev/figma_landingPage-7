@@ -509,6 +509,9 @@
 }
 
 @media (max-width: 560px){
+    *{
+        border:1px solid red;
+    }
     .container{
         width: 440px;
     }
@@ -664,7 +667,7 @@
     }
     .header-travel {
         margin-right: 50px;
-        width: 300px;
+        width: 250px;
     }
     .header-travel .header-title{
         margin-left: -60px;
@@ -678,19 +681,21 @@
         margin-left: -60px;
     }
     main .container .left-star{
-        margin-left: -50px;
+        margin-left: 0px;
+        width: 330px;
     }
 
     main .container .right-star{
-        margin-left: -50px;
+        margin-left: 0px;
+        width: 330px;
 
     }
 
     .left-star-text {
-        padding: 0 60px;
+        padding: 0 30px;
     }
     .right-star-text {
-        padding: 0 60px;
+        padding: 0 30px;
     }
 
     .world-item img{
@@ -713,14 +718,14 @@
     }
 
     .improve {
-        margin-left: -8px;
+        margin-left: 0px;
     }
 
     .experience-image {
         display: none;
     }
     .play .container {
-        width: 360px;
+        width: 330px;
         height: 150px;
         margin-top: 20px;
     }
