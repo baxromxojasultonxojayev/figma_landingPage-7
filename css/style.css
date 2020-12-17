@@ -93,7 +93,7 @@ header .container{
 .header-image{
     width: 250px;
     height: 450px;
-    background-image: url('./figma_landingPage-7/img/iPhone.svg');
+    background-image: url('../figma_landingPage-7/img/iPhone.svg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 550px 450px;
